@@ -10,9 +10,9 @@
 
 
 ##  Minhas contribuições:
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/daniiferc/daniiferc/output/snake.svg" alt="Snake animation" />
-
+</p>
 
 ###
 
@@ -25,7 +25,7 @@
 </div>
 
 ## Habilidades:
-
+<p align="center">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -39,4 +39,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+</p>
 
