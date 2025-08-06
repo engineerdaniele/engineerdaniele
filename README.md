@@ -30,7 +30,9 @@ ___
 ___
 ## Habilidades:
 
-<p align="left">💻 Desenvolvimento Web:</p>
+<p align="center">
+  💻 Desenvolvimento Web:
+</p>
 
 ###
 
@@ -46,7 +48,9 @@ ___
 
 ###
 
-<p align="left">⚙️ Back-end:</p>
+<p align="center">
+  ⚙️ Back-end:
+</p>
 
 ###
 
@@ -58,7 +62,9 @@ ___
 
 ###
 
-<p align="left">🛠️ Ferramentas:</p>
+<p align="center">
+  🛠️ Ferramentas:
+</p>
 
 ###
 
