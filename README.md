@@ -8,6 +8,8 @@
 🚀💻  Da lógica ao design, da curiosidade à criação. Estou trilhando meu caminho no universo da tecnologia com sede de aprender e liberdade para explorar diversas áreas. Codar é só o começo — quero entender, conectar e construir. 💡🎓 🧠
 </p>
 
+____________
+
 
 ##  Minhas contribuições:
 <p align="center">
