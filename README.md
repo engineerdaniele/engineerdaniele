@@ -8,7 +8,7 @@
 🚀💻  Da lógica ao design, da curiosidade à criação. Estou trilhando meu caminho no universo da tecnologia com sede de aprender e liberdade para explorar diversas áreas. Codar é só o começo — quero entender, conectar e construir. 💡🎓 🧠
 </p>
 
-____________
+___
 
 
 ##  Minhas contribuições:
@@ -16,7 +16,8 @@ ____________
 <img src="https://raw.githubusercontent.com/daniiferc/daniiferc/output/snake.svg" alt="Snake animation" />
 </p>
 
-###
+
+___
 
 ## 📊 Minhas estatísticas do GitHub
 
@@ -26,6 +27,7 @@ ____________
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniiferc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+___
 ## Habilidades:
 
 <div align="left">
