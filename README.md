@@ -1,4 +1,4 @@
-https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/nome-da-imagem.png?raw=true
+
 
 ## 📊 Minhas estatísticas do GitHub
 
