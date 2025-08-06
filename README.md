@@ -4,6 +4,10 @@
 </p>
 
 
+<p align="center">
+🚀 Da lógica ao design, da curiosidade à criação. Estou trilhando meu caminho no universo da tecnologia com sede de aprender e liberdade para explorar diversas áreas. Codar é só o começo — quero entender, conectar e construir.
+</p>
+
 
 ## 📊 Minhas estatísticas do GitHub
 
