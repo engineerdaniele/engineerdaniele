@@ -11,7 +11,7 @@
 ___
 
 
-##  Minhas contribuições:
+## 🧩 Minhas contribuições:
 <p align="center">
 <img src="https://raw.githubusercontent.com/daniiferc/daniiferc/output/snake.svg" alt="Snake animation" />
 </p>
