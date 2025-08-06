@@ -28,11 +28,9 @@ ___
 </div>
 
 ___
-## Habilidades:
 
-<p align="center">
+
   💻 Desenvolvimento Web:
-</p>
 
 ###
 
@@ -46,11 +44,11 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
 
-<p align="center">
+___
+
   ⚙️ Back-end:
-</p>
+
 
 ###
 
@@ -62,9 +60,10 @@ ___
 
 ###
 
-<p align="center">
+___
+
   🛠️ Ferramentas:
-</p>
+
 
 ###
 
