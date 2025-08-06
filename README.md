@@ -12,7 +12,7 @@
 
 <img src="https://raw.githubusercontent.com/daniiferc/daniiferc/output/snake.svg" alt="Snake animation" />
 
-## Languagens:
+## Habilidades:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
