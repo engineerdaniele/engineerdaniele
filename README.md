@@ -30,7 +30,7 @@ ___
 ___
 
 
-  💻 Desenvolvimento Web:
+ ## 💻 Desenvolvimento Web:
 
 ###
 
@@ -47,7 +47,7 @@ ___
 
 ___
 
-  ⚙️ Back-end:
+ ## ⚙️ Back-end:
 
 
 ###
@@ -62,7 +62,7 @@ ___
 
 ___
 
-  🛠️ Ferramentas:
+##  🛠️ Ferramentas:
 
 
 ###
