@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="https://github.com/daniiferc/daniiferc/blob/main/CapaDani.png?raw=true" width="100%" alt="banner" />
+</p>
+
+
 
 ## 📊 Minhas estatísticas do GitHub
 
