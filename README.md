@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/daniiferc/daniiferc/blob/main/CapaDani.png?raw=true" width="100%" alt="banner" />
+  <img src="https://github.com/engineerdaniele/engineerdaniele/blob/main/CapaDani.png?raw=true" width="100%" alt="banner" />
 </p>
 
 
@@ -13,7 +13,7 @@ ___
 
 ## 🧩 Minhas contribuições:
 <p align="center">
-<img src="https://raw.githubusercontent.com/daniiferc/daniiferc/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/engineerdaniele/engineerdaniele/output/snake.svg" alt="Snake animation" />
 </p>
 
 
@@ -22,9 +22,9 @@ ___
 ## 📊 Minhas estatísticas do GitHub:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniiferc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=engineerdaniele&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniiferc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engineerdaniele&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ___
